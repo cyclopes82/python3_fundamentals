@@ -163,3 +163,4 @@ cython_debug/
 *.pdf
 python-fundamentals-main.zip
 python-fundamentals-main/
+.ipynb_checkpoints

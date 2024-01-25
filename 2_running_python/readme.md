@@ -23,3 +23,8 @@ $env:path
 ```
 rmdir /q /s test
 ```
+
+pip freeze will tell everything that is installed in Virtual ENV
+```
+pip freeze
+```
