@@ -14,3 +14,5 @@ And if it's true, then I'm going to say, okay, then these two numbers are equal.
 ```
 abs((0.1 + 0.1 + 0.1) - 0.3) <0.001
 ```
+
+## OBJECTS
